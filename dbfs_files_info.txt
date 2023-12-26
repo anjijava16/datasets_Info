@@ -1,3 +1,17 @@
+
+path,name,size,modificationTime
+dbfs:/FileStore/,FileStore/,0,0
+dbfs:/databricks-datasets/,databricks-datasets/,0,0
+dbfs:/databricks-results/,databricks-results/,0,0
+dbfs:/dbacademy/,dbacademy/,0,0
+dbfs:/loan_by_state.parquet/,loan_by_state.parquet/,0,0
+dbfs:/local_disk0/,local_disk0/,0,0
+dbfs:/ml/,ml/,0,0
+dbfs:/mnt/,mnt/,0,0
+dbfs:/tmp/,tmp/,0,0
+dbfs:/user/,user/,0,0
+
+
 path,name,size,modificationTime
 dbfs:/databricks-datasets/COVID/,COVID/,0,0
 dbfs:/databricks-datasets/README.md,README.md,976,1532468253000
